@@ -1,0 +1,10 @@
+{
+  "horizon_days": 30,
+  "backtest_days": 28,
+  "lead_time_days": 3,
+  "service_level": 0.95,
+  "simulation_runs": 300,
+  "n_txn_rows": 9121,
+  "n_days": 365,
+  "n_items": 8
+}

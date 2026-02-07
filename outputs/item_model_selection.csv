@@ -1,0 +1,9 @@
+item,best_model
+cake,moving_average_7d
+coffee,moving_average_7d
+cookie,moving_average_7d
+juice,moving_average_7d
+salad,ewma_alpha_0.3
+sandwich,seasonal_naive_weekly
+smoothie,moving_average_7d
+tea,moving_average_7d
