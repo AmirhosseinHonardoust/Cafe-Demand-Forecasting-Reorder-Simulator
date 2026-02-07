@@ -11,7 +11,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
+ 
 </div>
  
 A portfolio-grade analytics project that turns café transactions into **(1) item-level demand forecasts** and **(2) an inventory reorder policy** (Reorder Point + Safety Stock), then validates the policy with a **Monte Carlo stockout-risk simulation**.
