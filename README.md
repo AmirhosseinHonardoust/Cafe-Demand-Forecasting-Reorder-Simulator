@@ -2,7 +2,7 @@
   <h1 align="center">Café Demand Forecasting + Inventory Reorder Simulator </h1>
     <p align="center">
 <div align="center">
-
+ 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-yellow)
 ![Forecasting](https://img.shields.io/badge/Forecasting-Baselines%20%2B%20Backtesting-purple)
