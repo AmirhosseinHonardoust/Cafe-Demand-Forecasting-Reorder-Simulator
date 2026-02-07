@@ -2,7 +2,7 @@
   <h1 align="center">Café Demand Forecasting + Inventory Reorder Simulator </h1>
     <p align="center">
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-yellow)
 ![Forecasting](https://img.shields.io/badge/Forecasting-Baselines%20%2B%20Backtesting-purple)
@@ -11,9 +11,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75)
 ![License](https://img.shields.io/badge/License-MIT-green)
- 
+
 </div>
- 
+
 A portfolio-grade analytics project that turns café transactions into **(1) item-level demand forecasts** and **(2) an inventory reorder policy** (Reorder Point + Safety Stock), then validates the policy with a **Monte Carlo stockout-risk simulation**.
 
 This repo is built around a real decision:
