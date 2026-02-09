@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Café Demand Forecasting + Inventory Reorder Simulator </h1>
     <p align="center">
-<div align="center">
+<div align="center"> 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-yellow)
