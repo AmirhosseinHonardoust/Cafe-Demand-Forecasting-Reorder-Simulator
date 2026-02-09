@@ -13,7 +13,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
-    
+     
 A portfolio-grade analytics project that turns café transactions into **(1) item-level demand forecasts** and **(2) an inventory reorder policy** (Reorder Point + Safety Stock), then validates the policy with a **Monte Carlo stockout-risk simulation**.
  
 This repo is built around a real decision:
